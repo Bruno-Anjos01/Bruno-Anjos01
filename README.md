@@ -6,7 +6,7 @@
 
 </div>
 
-#Hello everyone, welcome to my profile.
+Hello everyone, welcome to my profile.
 
 I am a technical student in Systems Development in my final year of high school.
 I currently use Python, HTML, and CSS.
