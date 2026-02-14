@@ -1,13 +1,22 @@
 <div align="center">
+
+# 👋 Hello, I'm Bruno Anjos
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Anjos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dos-anjos-lima-barreto-05101936a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs2ps1kZ%2FSJqg6m0%2FN4vBSA%3D%3D)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Anjos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dos-anjos-lima-barreto-05101936a)
+
 </div>
-Hello everyone, welcome to my profile.
 
-I am a technical student in Systems Development in my final year of high school.
-I currently use Python, HTML, and CSS.
-And I intend to pursue a career in cybersecurity in the future.
+## 🚀 About Me
 
-😁
+I am a technical student in Systems Development in my final year of high school.  
+I am focused on building my career in the technology field, especially in Information Security.
+
+## 📚 Currently Learning
+
+- Python
+- HTML & CSS
+- Web Development Fundamentals
