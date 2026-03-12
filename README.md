@@ -30,3 +30,4 @@ I am focused on building my career in the technology field, especially in Inform
 - Web development
 - Mobile development
 - Cybersecurity
+- A.I.
